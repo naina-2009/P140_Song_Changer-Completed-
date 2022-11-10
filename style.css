@@ -1,0 +1,45 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    background: linear-gradient(yellowgreen, yellow, darkgreen);
+    color: darkgreen;
+    font-size: 35px;
+    font-family: Qwitcher Grypen;
+    font-weight: bold;
+    width: 98%;
+    margin: 0;
+}
+
+.note
+{
+    font-size: 13.5px;
+    font-family: Montserrat;
+    color: black;
+}
+
+.song_name
+{
+    font-size: 40px;
+    font-family: Amatic SC;
+    font-weight: bold;
+    background: linear-gradient(yellow, red, maroon);
+    color: white;
+}
+.play
+{
+    background: linear-gradient(yellow, rgb(212, 212, 39), rgb(148, 148, 29), rgb(102, 102, 18), rgb(60, 60, 12));
+    font-size: 30px;
+    font-family: Caveat;
+    color: black;
+}
+canvas
+{
+    border: 6px solid white;
+    border-radius: 20px;
+    box-shadow: 4px 4px 4px white;
+    margin: 30px;
+}
